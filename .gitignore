@@ -1,0 +1,26 @@
+# Ignore all Scripts directories recursively
+**/Scripts/
+
+# Ignore all Lib directories recursively
+**/Lib/
+
+# Ignore all pyvenv files recursively
+**/pyvenv*
+
+**/Include/
+
+# Optional: Ignore virtual environment-related files
+*.pyc
+*.pyo
+**/__pycache__/
+
+/Project/
+/Milvus/volumes/
+/data/
+/data1/
+
+**/volumes/
+
+/RedisInsight/
+**/etc/
+**/share/
